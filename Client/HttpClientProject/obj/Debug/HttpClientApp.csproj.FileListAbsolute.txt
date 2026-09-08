@@ -1,0 +1,10 @@
+C:\Term1-2569\310-2203 backed\project\HttpClientApp\bin\Debug\HttpClientApp.exe.config
+C:\Term1-2569\310-2203 backed\project\HttpClientApp\bin\Debug\HttpClientApp.exe
+C:\Term1-2569\310-2203 backed\project\HttpClientApp\bin\Debug\HttpClientApp.pdb
+C:\Term1-2569\310-2203 backed\project\HttpClientApp\obj\Debug\HttpClientApp.csproj.AssemblyReference.cache
+C:\Term1-2569\310-2203 backed\project\HttpClientApp\obj\Debug\HttpClientApp.Form1.resources
+C:\Term1-2569\310-2203 backed\project\HttpClientApp\obj\Debug\HttpClientApp.Properties.Resources.resources
+C:\Term1-2569\310-2203 backed\project\HttpClientApp\obj\Debug\HttpClientApp.csproj.GenerateResource.cache
+C:\Term1-2569\310-2203 backed\project\HttpClientApp\obj\Debug\HttpClientApp.csproj.CoreCompileInputs.cache
+C:\Term1-2569\310-2203 backed\project\HttpClientApp\obj\Debug\HttpClientApp.exe
+C:\Term1-2569\310-2203 backed\project\HttpClientApp\obj\Debug\HttpClientApp.pdb
